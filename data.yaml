@@ -1,0 +1,1 @@
+path: datasets/pcb\ntrain: images/train\nval: images/val\nnames:\n  0: missing_hole\n  1: mouse_bite\n  2: open_circuit\n  3: short\n  4: spur\n  5: spurious_copper\n
